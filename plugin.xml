@@ -10,7 +10,7 @@
                 <feature name="FiveStarsPlugin">
                     <param name="ios-package" value="FiveStarsPlugin" />
                 </feature>
-                 <preference name="UseSwiftLanguageVersion" value="5" />
+                 <preference name="UseSwiftLanguageVersion" value="4.2" />
             </config-file>
             <source-file src="src/ios/FiveStarsPlugin.swift" />
         </platform>
